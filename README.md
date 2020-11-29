@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/dgij7hy.png)
 
-## A Versatile Python Calculator.
+## A Versatile Python Calculator
 
 I know ok? I get it. Calculator apps are too easy and common for you but I’m new with Python and I’m interested in building things that work no matter how basic. This app can do math plain and simple. Nothing fancy about it just some regular 1+1=2 stuff. I’ll get back to work now so I can start building more complex things with Python. Have fun with Mathz or don’t that’s your business.
  
