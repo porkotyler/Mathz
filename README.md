@@ -14,4 +14,4 @@ Open the "Calculator.py" file using a text editor like [PyCharm](https://www.jet
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
